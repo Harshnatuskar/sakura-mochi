@@ -1,2 +1,2 @@
 # sakura-mochi
-A vst plugin built over JUCE framework
+A VST plugin built over JUCE framework
